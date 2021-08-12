@@ -1,0 +1,8 @@
+{
+  "name": "test-esm-cjs",
+  "version": "1.0.0",
+  "main": "hello.cjs",
+  "scripts": {
+    "start": "node hello.cjs"
+  }
+}
